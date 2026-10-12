@@ -1,5 +1,6 @@
 # devops_12_Oct
 in class task
+Harish Adithya Jayaraman Vadivelan (100008313)
 Harshal Manohar Tandel 100008484
 Manish Mahankali 100008249
 Indraneel Chatterjee 100008243
